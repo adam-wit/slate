@@ -25,6 +25,7 @@ const VALID_LIQUID_TEMPLATES = [
   'page.ambassador',
   'page.ambassadors',
   'page.black-friday',
+  'page.educational-guide',
   'page.launch',
   'page.train-login',
   'password',
